@@ -1,10 +1,10 @@
-# Introductory code to simulate a COVID-19 outbreak in an unknown territory
+# Introductory code to simulate a COVID-19 outbreak
 # Enrique M Saldarriaga
 # The CHOICE Institute, University of Washington
 # Jul 2020
 # Original post: <URL>
 
-# The goal of this code is to simulate an COVID-19 outbreak in a hypothetical territory using real-world parameters
+# The goal of this R-script is to simulate an COVID-19 outbreak in a hypothetical territory using real-world parameters
 
 ### 1. Defining the infectious model
 # Here we need to define the "version" of the model we want to use
